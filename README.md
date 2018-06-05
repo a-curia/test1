@@ -1,1 +1,1 @@
-pulea inteleptul
+de testat acest repo
